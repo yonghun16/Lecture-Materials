@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Lecture%20Materials&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+| 코딩스쿨 - 학부모님을 위한 교양코딩 |
+|----------------------|
+|<a href="https://github.com/yonghun16/coding_school_introductory_coding_for_parents"><img src="https://github.com/yonghun16/coding_school_introductory_coding_for_parents/raw/main/previews/preview2.jpeg?raw=true" width=825px /></a>|
+|<ul><li>학부모님을 위한 교양 코딩! 파이썬 맛보기와 교육 현황 설명으로, 자녀 교육을 효과적으로 이해하고 응원할 수 있습니다.</li><li><a href="https://github.com/yonghun16/coding_school_introductory_coding_for_parents"> Github page </a></li><li><!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a></li></ul>|
+
 | 코딩스쿨 - 중학생을 위한 파이썬교실 (입문) |
 |----------------------|
 |<a href="https://github.com/yonghun16/coding_school_basic_python_for_middle_school"><img src="https://github.com/yonghun16/coding_school_basic_python_for_middle_school/raw/main/previews/preview4.jpeg?raw=true" width=825px /></a>|
