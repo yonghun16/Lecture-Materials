@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Lecture%20Materials&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+| 코딩스쿨 - 제이프로 소개 |
+|----------------------|
+|<a href="https://github.com/yonghun16/coding_school_introduction_to_jaypro/"><img src="https://github.com/yonghun16/coding_school_introduction_to_jaypro/raw/main/previews/preview4.jpeg" width=825px /></a>|
+|<ul><li>제이프로는 초등 고학년부터 중·고등학생, 코딩 입문자까지 누구나 쉽게 접근할 수 있으며,<br />소프트웨어 교육의 새로운 접근 방식을 제시합니다.</li><li><a href="https://github.com/yonghun16/coding_school_introduction_to_jaypro"> Github page </a></li><li><!-- JayPro --><img src="https://img.shields.io/badge/JayPro-252F38?style=flat&logo=JayPro&logoColor=white" /></li></ul>|
+
 | 코딩스쿨 - 스크래치 게임만들기 |
 |----------------------|
 |<a href="https://yonghun16.github.io/coding_school_scratch_game/"><img src="https://raw.githubusercontent.com/yonghun16/coding_school_scratch_game/main/preview.png" width=825px /></a>|
