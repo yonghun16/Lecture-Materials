@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Lecture%20Materials&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+| 코딩스쿨 - 중학생을 위한 파이썬교실 (입문) |
+|----------------------|
+|<a href="https://github.com/yonghun16/coding_school_basic_python_for_middle_school"><img src="https://github.com/yonghun16/coding_school_basic_python_for_middle_school/raw/main/previews/preview4.jpeg?raw=true" width=825px /></a>|
+|<ul><li>중학생을 대상으로 한 파이썬 입문 과정으로, 계산기 만들기 프로젝트를 통해 기초 문법과 프로그래밍 사고력을 <br />자연스럽게 배울 수 있도록 구성되어 있습니다. 실습 위주의 학습을 통해 초보자도 쉽게 따라올 수 있는 과정입니다.</li><li><a href="https://github.com/yonghun16/coding_school_basic_python_for_middle_school"> Github page </a></li><li><!-- Python --><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a></li></ul>|
+
 | 코딩스쿨 - 제이프로 소개 |
 |----------------------|
 |<a href="https://github.com/yonghun16/coding_school_introduction_to_jaypro/"><img src="https://github.com/yonghun16/coding_school_introduction_to_jaypro/raw/main/previews/preview4.jpeg" width=825px /></a>|
