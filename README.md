@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Lecture%20Materials&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+
+
+| OCI 다뤄보기 |
+|----------------------|
+|<a href="https://github.com/yonghun16/coding_school_oci"><img src="https://github.com/yonghun16/coding_school_oci/raw/main/images/2.jpg?raw=true" width=825px /></a>|
+|<ul><li>클라우드 인프라 OCI 기본설치와 타 클라우드 비교 분석으로 장정과 특징을 쉽게 이해하고 활용할 수 있습니다.</li><li><a href="https://github.com/yonghun16/coding_school_oci"> Github page </a></li><li><!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a></li></ul>|
+
 | 코딩스쿨 - 학부모님을 위한 교양코딩 |
 |----------------------|
 |<a href="https://github.com/yonghun16/coding_school_introductory_coding_for_parents"><img src="https://github.com/yonghun16/coding_school_introductory_coding_for_parents/raw/main/previews/preview2.jpeg?raw=true" width=825px /></a>|
